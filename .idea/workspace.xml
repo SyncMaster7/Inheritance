@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="348311e1-ea59-4ff3-8d60-685de60b3f5c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BuildingPackageInheritance/BuildingParent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BuildingPackageInheritance/BuildingParent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BuildingPackageInheritance/Cottage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BuildingPackageInheritance/Cottage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BuildingPackageInheritance/Duplex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BuildingPackageInheritance/Duplex.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BuildingPackageInheritance/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BuildingPackageInheritance/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BuildingPackageInheritance/Skyscraper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BuildingPackageInheritance/Skyscraper.java" afterDir="false" />
-    </list>
+    <list default="true" id="348311e1-ea59-4ff3-8d60-685de60b3f5c" name="Changes" comment="Added parent (superclass) and child (subclass)." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,6 +66,17 @@
       <option name="presentableId" value="Default" />
       <updated>1673175962840</updated>
     </task>
+    <task id="LOCAL−00001" summary="Added parent (superclass) and child (subclass).">
+      <created>1673185140138</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1673185140138</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added parent (superclass) and child (subclass)." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added parent (superclass) and child (subclass)." />
   </component>
 </project>
